@@ -1,0 +1,9 @@
+boto3
+rudder-sdk-python
+matplotlib
+seaborn
+scikit-learn
+pandas
+numpy
+pyyaml
+

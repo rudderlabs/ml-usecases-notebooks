@@ -1,0 +1,7 @@
+rudder:
+  DATA_PLANE_URL: https://<rudder_data_plane>.dataplane.rudderstack.com
+  WRITE_KEY: <rudder_write_key_for_python_sdk_based_source>
+aws:
+  access_key_id: <access key_id to aws ac that can access s3_bucket having input_data>
+  access_key_secret: <access key_secret to aws ac that can access s3_bucket having input_data>
+  region: <aws region of s3_bucket with input_data>
